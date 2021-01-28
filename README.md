@@ -8,9 +8,9 @@ After making your changes to the notebook, you will need to upload it to GitHub.
 
 ## Before you start
 
-### Clone the Exercise 2 repository
+### Clone the Exercise 3 repository
 
-Before starting to work with the actual problems for this week, you should start a new JupyterLab instance and clone your own Exercise 3 repository (e.g. exercise-2-jdoe) into the instance using Git 
+Before starting to work with the actual problems for this week, you should start a new JupyterLab instance and clone your own Exercise 3 repository (e.g. exercise-3-jdoe) into the instance using Git 
 
 ## Start working
 
